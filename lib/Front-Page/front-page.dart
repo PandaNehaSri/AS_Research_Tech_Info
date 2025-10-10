@@ -10,7 +10,7 @@ class _FrontPageState extends State<FrontPage> with TickerProviderStateMixin {
   late AnimationController _mainController;
   late AnimationController _imageController;
   late AnimationController _textController;
-  late AnimationController _buttonController;
+  late AnimationController _buttonControllerwerwerW;
   late AnimationController _floatingController;
 
   late Animation<double> _imageScaleAnimation;
